@@ -1,12 +1,27 @@
 ## 👾 Claus Prüfer @GitHub 🚀
 
+```
+      _____              _____        _____    ____   ____      ______         _____       ______        _____   
+  ___|\    \         ___|\    \   ___|\    \  |    | |    | ___|\     \   ____|\    \  ___|\     \   ___|\    \  
+ /    /\    \       |    |\    \ |    |\    \ |    | |    ||     \     \ |    | \    \|     \     \ |    |\    \ 
+|    |  |    |      |    | |    ||    | |    ||    | |    ||     ,_____/||    |______/|     ,_____/||    | |    |
+|    |  |____|      |    |/____/||    |/____/ |    | |    ||     \--'\_|/|    |----'\ |     \--'\_|/|    |/____/ 
+|    |   ____       |    ||    |||    |\    \ |    | |    ||     /___/|  |    |_____/ |     /___/|  |    |\    \ 
+|    |  |    |      |    ||____|/|    | |    ||    | |    ||     \____|\ |    |       |     \____|\ |    | |    |
+|\ ___\/    /|      |____|       |____| |____||\___\_|____||____ '     /||____|       |____ '     /||____| |____|
+| |   /____/ |      |    |       |    | |    || |    |    ||    /_____/ ||    |       |    /_____/ ||    | |    |
+ \|___|    | /      |____|       |____| |____| \|____|____||____|     | /|____|       |____|     | /|____| |____|
+   \( |____|/         \(           \(     )/      \(   )/    \( |_____|/   )/           \( |_____|/   \(     )/  
+    '   )/             '            '     '        '   '      '    )/      '             '    )/       '     '   
+        '                                                          '                          '                  ```
+
 🧑‍💻 I am Claus Prüfer, a professional C++ developer passionate about software engineering, systems design, and web technologies.
 I focus on building robust, 🔬 efficient, and scalable solutions using modern C++ standards and best practices.
 
 🎯 Committed to code quality, clean architecture, and continuous learning.
 
 🤝 Check out my company profile: [WEBcodeX on GitHub](https://github.com/WEBcodeX)
-
+                                                                                                                                                                                                                                                        
 ---
 
 ### 🌟 Featured Projects
