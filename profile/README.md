@@ -3,8 +3,7 @@
 ### 💻 About Me
 
 🧑‍💻 I am Claus Prüfer, a professional C++ developer passionate about software engineering, systems design, and web technologies.
-
-🔬 I focus on building robust, efficient, and scalable solutions using modern C++ standards and best practices.
+I focus on building robust, 🔬 efficient, and scalable solutions using modern C++ standards and best practices.
 
 🎯 Committed to code quality, clean architecture, and continuous learning.
 
@@ -14,10 +13,8 @@
 
 ### 🌟 Featured Projects
 
-- [x0](https://github.com/clauspruefer/x0)  
-  ✨ Modern, True OOP Real-Time SPA Framework for Powerful Web Applications.
-- [http-1.2](https://github.com/clauspruefer/http-1.2)  
-  🚦 High-performance HTTP library for next-generation networking applications.
+- [x0](https://github.com/clauspruefer/x0) ✨ Modern, True OOP Real-Time SPA Framework for Powerful Web Applications.
+- [http-1.2](https://github.com/clauspruefer/http-1.2) 🚦 High-performance HTTP library for next-generation networking applications.
 
 ---
 
