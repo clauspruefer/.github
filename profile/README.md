@@ -16,7 +16,7 @@ I focus on building robust, 🔬 efficient, and scalable solutions using modern 
 
 🎯 Committed to code quality, clean architecture, and continuous learning.
 
-🤝 Check out my company profile: [WEBcodeX on GitHub](https://github.com/WEBcodeX)
+🤝 Check out my company profile: [WEBcodeX on GitHub](https://github.com/WEBcodeX1)
                                                                                                                                                                                                                                                         
 ---
 
