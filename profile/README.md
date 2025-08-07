@@ -23,7 +23,7 @@ I focus 🔬 on building robust, efficient, and scalable solutions using modern 
 ### 🌟 Featured Projects
 
 - [x0](https://github.com/WEBcodeX1/x0) ✨ Modern, True OOP Real-Time SPA Framework for Powerful Web Applications.
-- [http-1.2](https://github.com/WEBcodeX1/http-1.2) 🚦 High-performance HTTP (JSON) Python **or** Java Application Server.
+- [http-1.2](https://github.com/WEBcodeX1/http-1.2) 🚦 High-performance HTTP (JSON processing) Python **or** Java Application Server.
 
 ---
 
