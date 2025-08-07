@@ -37,7 +37,7 @@ I focus 🔬 on building robust, efficient, and scalable solutions using modern 
 
 #### 🛠️ Technical Focus
 
-- Modern C++ (C++17/20)
+- Modern C++
 - Systems programming
 - Network protocols
 - Clean architecture & design patterns
