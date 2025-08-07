@@ -48,7 +48,7 @@ I focus 🔬 on building robust, efficient, and scalable solutions using modern 
 #### 🙏 Thank You!
 
 Thanks for visiting my GitHub profile!  
-Feel free to connect or collaborate on professional C++ projects.  
+Feel free to connect or collaborate on my various projects.  
 May your code always be bug-free and your builds lightning fast! ⚡
 
 ```BASIC
