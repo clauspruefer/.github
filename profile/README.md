@@ -11,8 +11,9 @@
 
 ---
 
-🧑‍💻 I am Claus Prüfer, a professional C++ developer passionate about software engineering, systems design, and web technologies.
-I focus on building robust, 🔬 efficient, and scalable solutions using modern C++ standards and best practices.
+🧑‍💻 I am Claus Prüfer, a professional C++, Python and JavaScript developer passionate about software engineering,
+systems design, and web technologies. I focus on building robust, 🔬 efficient, and scalable solutions using modern
+programming standards and best practices.
 
 🤝 Check out my company profile: [WEBcodeX on GitHub](https://github.com/WEBcodeX1)
                                                                                                                                                                                                                                                         
