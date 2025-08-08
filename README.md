@@ -1,2 +1,2 @@
 # .github
-Public Company Repository
+Claus Prüfers GitHub metadata.
