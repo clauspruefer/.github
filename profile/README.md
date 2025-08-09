@@ -16,18 +16,18 @@ systems design, and web technologies.
 
 I focus 🔬 on building robust, efficient, and scalable solutions using modern programming standards and best practices.
 
-🤝 Check out my company profile: [WEBcodeX on GitHub](https://github.com/WEBcodeX1)
+🤝 Check out my company profile: [WEBcodeX on GitHub](https://github.com/WEBcodeX1) 🤝
                                                                                                                                                                                                                                                         
 ---
 
-### 🌟 Featured Projects
+### 🌟 Featured Projects 🌟
 
 - [x0](https://github.com/WEBcodeX1/x0) ✨ Modern, True OOP Real-Time SPA Framework for Powerful Web Applications.
 - [http-1.2](https://github.com/WEBcodeX1/http-1.2) 🚦 High-performance HTTP (JSON processing) Python **or** Java Application Server.
 
 ---
 
-### 🌍 Online Presence
+### 🌍 Online Presence 🌍
 
 - [webcodex.de](http://webcodex.de) ✨ Portfolio & company site  
 - [click-it.online](http://click-it.online) 🚀 Company site
@@ -35,7 +35,7 @@ I focus 🔬 on building robust, efficient, and scalable solutions using modern 
 
 ---
 
-#### 🛠️ Technical Focus
+#### 🛠️ Technical Focus 🛠️
 
 - Modern C++
 - Systems programming
