@@ -17,13 +17,14 @@ systems design, and web technologies.
 I focus 🔬 on building robust, efficient, and scalable solutions using modern programming standards and best practices.
 
 🤝 Check out my company profile: [WEBcodeX on GitHub](https://github.com/WEBcodeX1) 🤝
-                                                                                                                                                                                                                                                        
+
 ---
 
 ### 🌟 Featured Projects 🌟
 
-- [x0](https://github.com/WEBcodeX1/x0) ✨ Modern, True OOP Real-Time SPA Framework for Powerful Web Applications.
-- [http-1.2](https://github.com/WEBcodeX1/http-1.2) 🚦 High-performance HTTP (JSON processing) Python **or** Java Application Server.
+- [x0](https://github.com/WEBcodeX1/x0) ✨ Modern, True OOP Real-Time SPA Framework.
+- [http-1.2](https://github.com/WEBcodeX1/http-1.2) :bird: High-performance Next-Level HTTP Python **or** Java Application Server.
+- [python-micro-esb](https://github.com/clauspruefer/python-micro-esb) :cloud: Service Oriented (SOA) - Web-Service centric Python Middleware.
 
 ---
 
