@@ -46,9 +46,20 @@ I focus 🔬 on building robust, efficient, and scalable solutions using modern 
 
 ---
 
+### :floppy_disk: 8 Bit Adventures :floppy_disk:
+
+- Commodore C64
+
+This was the ultimate home computer of my choice in the '80s —
+now, let’s see what kind of magic we can still pull from this iconic little breadbox today!
+
+https://github.com/clauspruefer/c64_demos
+
+---
+
 #### 🙏 Thank You!
 
-Thanks for visiting my GitHub profile!  
+Thanks for visiting my GitHub profile!
 Feel free to connect or collaborate on my various projects.  
 May your code always be bug-free and your builds lightning fast! ⚡
 
