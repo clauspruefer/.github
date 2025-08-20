@@ -36,7 +36,7 @@ I focus 🔬 on building robust, efficient, and scalable solutions using modern 
 
 ---
 
-#### 🛠️ Technical Focus 🛠️
+### 🛠️ Technical Focus 🛠️
 
 - Modern C++
 - Systems programming
