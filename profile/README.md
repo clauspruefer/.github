@@ -61,7 +61,7 @@ https://github.com/clauspruefer/c64_demos
 #### 🙏 Thank You!
 
 Thanks for visiting my GitHub profile!
-Feel free to connect or collaborate on my various projects.  
+Feel free to connect or collaborate on my various projects.
 May your code always be bug-free and your builds lightning fast! ⚡
 
 ```BASIC
