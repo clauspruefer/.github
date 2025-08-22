@@ -25,7 +25,7 @@ I focus 🔬 on building robust, efficient, and scalable solutions using modern 
 - [x0](https://github.com/WEBcodeX1/x0) ✨ Modern, True OOP Real-Time SPA Framework.
 - [http-1.2](https://github.com/WEBcodeX1/http-1.2) :bird: High-performance Next-Level HTTP Python **or** Java Application Server.
 - [python-micro-esb](https://github.com/clauspruefer/python-micro-esb) :cloud: Service Oriented (SOA) - Web-Service centric Python Middleware.
-- [python-dbpool](https://github.com/clauspruefer/python-dbpool) :elephant: Tiny PostgreSQL / MongoDB - Database Pool.
+- [python-dbpool](https://github.com/clauspruefer/python-dbpool) :elephant: Tiny PostgreSQL - Database Pool.
 
 ---
 
