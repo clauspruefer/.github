@@ -33,7 +33,7 @@ I focus 🔬 on building robust, efficient, and scalable solutions using modern 
 
 - [webcodex.de](http://webcodex.de) ✨ Portfolio & company site  
 - [click-it.online](http://click-it.online) 🚀 Company site
-- [der-it-pruefer.de](http://der-it-pruefer.de) 🕹️ Critical IT Blog for professionals
+- [der-it-pruefer.de](https://der-it-pruefer.de) 🕹️ Critical IT Blog for professionals
 
 ---
 
