@@ -26,7 +26,7 @@ I focus 🔬 on building robust, efficient, and scalable solutions using modern 
 - [http-1.2](https://github.com/WEBcodeX1/http-1.2) :bird: High-performance NLAP (Next Level Application Protocol) Python **or** Java Application Server
 - [python-micro-esb](https://github.com/clauspruefer/python-micro-esb) :cloud: Service Oriented (SOA) - Microservices, NoSQL centric Python Middleware
 - [python-dbpool](https://github.com/clauspruefer/python-dbpool) :elephant: Tiny PostgreSQL Database Pool
-- [hardened-ubuntu](https://github.com/WEBcodeX1/hardened-ubuntu) :shield: Hardened Ubuntu
+- [hardened-ubuntu](https://github.com/WEBcodeX1/hardened-ubuntu) :shield: Hardened Ubuntu 25.10 Desktop (auto-installable)
 
 ---
 
