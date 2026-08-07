@@ -23,7 +23,7 @@ I leverage 🔬 AI-assisted engineering and clean architecture to build robust, 
 
 ### 🌟 Featured Projects 🌟
 
-* **[x0 cross objects](https://github.com/WEBcodeX1/x0)** ✨ A serverless, ultra-lightweight JavaScript in-browser real-time templating engine (RTTE) suitable for micro-controllers, built on exceptionally strong OOP principles.
+* **[x0](https://github.com/WEBcodeX1/x0)** ✨ A serverless, ultra-lightweight JavaScript in-browser real-time templating engine (RTTE) suitable for micro-controllers, built on exceptionally strong OOP principles.
 * **[http-1.2](https://github.com/WEBcodeX1/http-1.2)** 🐦 High-performance NLAP (Next Level Application Protocol) Python / Java application server including HTTP/1.1 backward compatibility.
 * **[python-micro-esb](https://github.com/clauspruefer/python-micro-esb)** ☁️ Service-Oriented Architecture (SOA) & microservices-focused, NoSQL-centric Python middleware.
 * **[python-dbpool](https://github.com/clauspruefer/python-dbpool)** 🐘 A tiny, efficient PostgreSQL database connection pool.
