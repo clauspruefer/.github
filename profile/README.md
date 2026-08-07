@@ -14,7 +14,7 @@
 I am Claus Prüfer 🧑‍💻, a professional C++, Python and JavaScript developer passionate about software engineering,
 systems design, and web technologies.
 
-I focus 🔬 on leveraging advanced AI-assisted engineering techniques to optimize the software development process. With this approach, I build robust, efficient, and scalable solutions using modern programming standards and clean architecture best practices—delivering in hours what takes others days.
+I leverage 🔬 AI-assisted engineering and clean architecture to build robust, scalable software—delivering in hours what takes others days.
 
 🤝 Check out my company profile: [WEBcodeX on GitHub](https://github.com/WEBcodeX1) 🤝<br>
 ✍️ Read my latest tech insights: [Der IT Prüfer](http://der-it-pruefer.de) ✍️
